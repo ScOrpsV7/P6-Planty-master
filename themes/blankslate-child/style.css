@@ -45,7 +45,7 @@ header .logo img {
   padding: 25px 65px;
 }
 
-/* form commande quantité1 */
+/* form commande quantité */
 
 .form1  {
   display: flex;
@@ -171,6 +171,8 @@ footer a {
 .formfruit h3{
   display: none;
 }
+
+/*responsive*/
 
 @media screen and (max-width:992px) {
 
